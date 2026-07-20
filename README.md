@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0994-rotting-oranges) |
 ## String
@@ -59,5 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0994-rotting-oranges) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
