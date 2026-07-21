@@ -140,8 +140,8 @@ public:
 
         for (auto &e : edges) {
 
-            if (e[1] == 0)
-                continue;
+            // if (e[1] == 0)
+            //     continue;
 
             int u = e[0];
             int v = e[1];
