@@ -75,8 +75,8 @@ public:
         {
             if (col[it] == -1)
             {
-                if (!dfs(it, 1 - color, adj, col))
-                    return false;
+               if(!dfs(it, 1 - color, adj, col)) return false;
+                   
             }
             else if (col[it] == color)
             {
