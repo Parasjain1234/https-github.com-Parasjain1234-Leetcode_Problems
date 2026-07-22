@@ -67,20 +67,36 @@ class Solution {
 public:
     bool dfs(int node, int color,
              vector<vector<int>>& adj,
-             vector<int>& col)
-    {
-        col[node] = color;
+             vector<int>& col){
+    
+        // col[node] = color;
 
-        for (auto it : adj[node])
-        {
-            if (col[it] == -1)
-            {
-               if(!dfs(it, 1 - color, adj, col)) return false;
+        // for (auto it : adj[node])
+        // {
+        //     if (col[it] == -1)
+        //     {
+        //        if(!dfs(it, 1 - color, adj, col)) return false;
                    
-            }
-            else if (col[it] == color)
-            {
-                return false;
+        //     }
+        //     else if (col[it] == color)
+        //     {
+        //         return false;
+        //     }
+        // }
+        queue<int>q;
+        q.push(node);
+        col[node]=0;
+        while(!q.empty()){
+            int nnode= q.front();
+            q.pop();
+
+            for(auto it: adj[nnode]){
+                if(col[it]== -1){
+                    col[it]= !col[nnode];
+                    q.push(it);
+                }
+
+                else if(col[it]== col[nnode]) return false;
             }
         }
 
