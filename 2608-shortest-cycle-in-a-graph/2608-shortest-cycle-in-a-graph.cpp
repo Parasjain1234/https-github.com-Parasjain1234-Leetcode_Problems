@@ -68,7 +68,7 @@ public:
 
         int min_cycle = INT_MAX;
 
-        // Step 2: Har node se BFS run karo
+        
         for (int i = 0; i < n; ++i) {
             vector<int> dist(n, -1);
             vector<int> parent(n, -1);
