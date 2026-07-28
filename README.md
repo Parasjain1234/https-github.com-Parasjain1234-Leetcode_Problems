@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0994-rotting-oranges) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0127-word-ladder) |
+| [0347-top-k-frequent-elements](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Graph Theory
 |  |
@@ -157,4 +161,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
