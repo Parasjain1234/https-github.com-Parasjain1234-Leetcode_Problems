@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
