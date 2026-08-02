@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
