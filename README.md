@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0516-longest-palindromic-subsequence](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1092-shortest-common-supersequence) |
