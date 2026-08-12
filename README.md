@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2017-grid-game](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/2017-grid-game) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/3731-find-missing-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0447-number-of-boomerangs](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0447-number-of-boomerangs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/3731-find-missing-elements) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search Tree
 |  |
 | ------- |
