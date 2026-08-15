@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0567-permutation-in-string](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1092-shortest-common-supersequence) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0447-number-of-boomerangs](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0447-number-of-boomerangs) |
+| [0567-permutation-in-string](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0952-largest-component-size-by-common-factor) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1839-longest-substring-of-all-vowels-in-order) |
