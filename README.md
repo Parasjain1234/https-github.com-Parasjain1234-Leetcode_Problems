@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0127-word-ladder) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0583-delete-operation-for-two-strings) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0447-number-of-boomerangs](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0447-number-of-boomerangs) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0952-largest-component-size-by-common-factor) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
