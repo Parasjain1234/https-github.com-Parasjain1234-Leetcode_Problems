@@ -107,105 +107,122 @@
 //         return idx;
 //     }
 // };
+
 // class Solution {
 // public:
-    
-
 //     int findTheCity(int n, vector<vector<int>>& edges,
 //                     int distanceThreshold) {
 
-//         vector<pair<int,int>> adj[n];
+//         int mn = INT_MAX;
+//         int idx = -1;
 
-        
-//         int mn=INT_MAX;
-//         int idx=n;
-//         for(int i=0; i<n; i++){
-//             int src= i;
-//             vector<int>dis(n,1e8);
-//             dis[src]=0;
-//             for(int j=0; j<n-1; j++){
-//                 for(int k = 0; k < edges.size(); k++) {
-//                         int u = edges[k][0];
-//                         int v = edges[k][1];
-//                         int w = edges[k][2];
+//         for (int i = 0; i < n; i++) {
 
-//                         if(dis[u]!= 1e8 && dis[u]+w < dis[v]){
-//                             dis[v]= w+ dis[u];
-//                         }
+//             int src = i;
+//             vector<int> dis(n, 1e8);
+//             dis[src] = 0;
 
-              
-//                  }
-//             }
-//             int c=0;
-//             for(int i=0; i<n; i++){
-//                 if(dis[i]<= distanceThreshold){
-//                     c++;
+//             // Bellman-Ford
+//             for (int j = 0; j < n - 1; j++) {
+
+//                 for (int k = 0; k < edges.size(); k++) {
+
+//                     int u = edges[k][0];
+//                     int v = edges[k][1];
+//                     int w = edges[k][2];
+
+//                     // u -> v
+//                     if (dis[u] != 1e8 && dis[u] + w < dis[v]) {
+//                         dis[v] = dis[u] + w;
+//                     }
+
+//                     // v -> u (graph is undirected)
+//                     if (dis[v] != 1e8 && dis[v] + w < dis[u]) {
+//                         dis[u] = dis[v] + w;
+//                     }
 //                 }
 //             }
-//             c--;
-//             mn= min(mn, c);
-//             if(mn<=idx) idx=i;
 
+//             int c = 0;
+//             for (int j = 0; j < n; j++) {
+//                 if (dis[j] <= distanceThreshold)
+//                     c++;
+//             }
+
+//             c--; // remove itself
+
+//             if (c < mn) {
+//                 mn = c;
+//                 idx = i;
+//             }
+//             else if (c == mn) {
+//                 idx = i;   // larger index
+//             }
 //         }
+
 //         return idx;
-
-
-
-       
 //     }
 // };
+
 class Solution {
 public:
     int findTheCity(int n, vector<vector<int>>& edges,
                     int distanceThreshold) {
 
-        int mn = INT_MAX;
-        int idx = -1;
+        vector<vector<pair<int, int>>>adj(n);
 
-        for (int i = 0; i < n; i++) {
+        int mn=n; int ans=-1;
 
-            int src = i;
-            vector<int> dis(n, 1e8);
-            dis[src] = 0;
+        for(auto it: edges){
+            int u= it[0];
+            int v= it[1];
+            int wt= it[2];
 
-            // Bellman-Ford
-            for (int j = 0; j < n - 1; j++) {
+            adj[u].push_back({v,wt});
+            adj[v].push_back({u,wt});
 
-                for (int k = 0; k < edges.size(); k++) {
+        }
+        int INF= 1e9;
+        int mx=0;
+        for(int i=0; i<n; i++){
+            int src=i;
+            vector<int>dis(n,INF);
+            dis[src]=0;
+            queue<pair<int,int>>q;
+            q.push({src,0});
 
-                    int u = edges[k][0];
-                    int v = edges[k][1];
-                    int w = edges[k][2];
+            while(!q.empty()){
+                int node= q.front().first;
+                int wt= q.front().second;
 
-                    // u -> v
-                    if (dis[u] != 1e8 && dis[u] + w < dis[v]) {
-                        dis[v] = dis[u] + w;
-                    }
+                q.pop();
 
-                    // v -> u (graph is undirected)
-                    if (dis[v] != 1e8 && dis[v] + w < dis[u]) {
-                        dis[u] = dis[v] + w;
+                for(auto it: adj[node]){
+                    int adjNode= it.first;
+                    int wt1= it.second;
+
+                    if((wt+wt1<= distanceThreshold) && (wt+ wt1<dis[adjNode])){
+                        dis[adjNode]= wt+wt1;
+                        q.push({adjNode, dis[adjNode]});
                     }
                 }
+
+            }
+            int c=0;
+            // for(int i=0; i<n; i++) if(dis[i]!=INF) c++;
+            // c--;
+            // mx= max(mx,c);
+
+             for(int j = 0; j < n; j++){
+                if(j != src && dis[j] != INF) c++;
             }
 
-            int c = 0;
-            for (int j = 0; j < n; j++) {
-                if (dis[j] <= distanceThreshold)
-                    c++;
-            }
-
-            c--; // remove itself
-
-            if (c < mn) {
+            if(c <= mn){
                 mn = c;
-                idx = i;
+                ans = src;
             }
-            else if (c == mn) {
-                idx = i;   // larger index
-            }
-        }
 
-        return idx;
+        }
+        return ans;
     }
 };
