@@ -1,19 +1,25 @@
 class Solution {
 public:
-    int solve(int ind, int buy, vector<int>&prices, int n, int cap, vector<vector<vector<int>>>&dp){
-        if(ind==n || cap==0) return 0;
+    int fun(vector<int>&prices, int buy, int ind, vector<vector<vector<int>>>&dp, int cap){
+        if(ind==prices.size() || cap==0) return 0;
+
         if(dp[ind][buy][cap]!=-1) return dp[ind][buy][cap];
 
         int profit=0;
         if(buy){
-            return dp[ind][buy][cap]= max((-prices[ind]+ solve(ind+1, 0, prices, n,cap, dp)), (0+ solve(ind+1, 1, prices, n, cap, dp) ));
+           profit= max(-prices[ind]+ fun(prices, 0, ind+1, dp, cap), 0+ fun(prices, 1, ind+1, dp, cap));
         }
-        return dp[ind][buy][cap]= max((prices[ind] + solve(ind+1, 1, prices, n, cap-1, dp)), (0+ solve(ind+1, 0, prices, n,cap,  dp)));
+        else profit= max(prices[ind]+ fun(prices, 1, ind+1, dp, cap-1), 0+ fun(prices, 0, ind+1, dp, cap));
+
+        return dp[ind][buy][cap]=profit;
+
+
     }
     int maxProfit(vector<int>& prices) {
-         int n= prices.size();
-         vector<vector<vector<int>>>dp(n, vector<vector<int>>(2, vector<int>(3, -1)));
-         return solve(0, 1, prices, n, 2, dp);
-      
+        int n= prices.size();
+        vector<vector<vector<int>>>dp(n+1, vector<vector<int>>(2,vector<int>(3,-1)));
+        int ans= fun(prices, 1, 0, dp, 2);
+
+        return ans;
     }
 };
