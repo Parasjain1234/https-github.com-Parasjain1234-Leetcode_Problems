@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-value-of-merged-integers">4448. Minimum Value of Merged Integers</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> of even length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-value-of-merged-integers">4097. Minimum Value of Merged Integers</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> of even length <code>n</code>.</p>
 
 <p>You have to <strong>merge</strong> the elements of <code>nums</code> in pairs by merging <code>nums[0]</code> with <code>nums[1]</code>, <code>nums[2]</code> with <code>nums[3]</code>, and so on, until <code>nums[n - 2]</code> with <code>nums[n - 1]</code>.</p>
 
