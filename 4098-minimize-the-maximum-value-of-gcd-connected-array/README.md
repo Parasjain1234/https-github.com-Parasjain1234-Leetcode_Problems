@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimize-the-maximum-value-of-gcd-connected-array">4462. Minimize the Maximum Value of GCD-Connected Array</a></h2><h3>Medium</h3><hr><p>You are given three integers <code>n</code>, <code>index</code>, and <code>value</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimize-the-maximum-value-of-gcd-connected-array">4098. Minimize the Maximum Value of GCD-Connected Array</a></h2><h3>Medium</h3><hr><p>You are given three integers <code>n</code>, <code>index</code>, and <code>value</code>.</p>
 
 <p>An integer array <code>nums</code> of length <code>n</code> is called <strong>GCD-Connected</strong> if:</p>
 
