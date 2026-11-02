@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0134-gas-station](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0134-gas-station) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0134-gas-station) |
 | [0680-valid-palindrome-ii](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/Parasjain1234/https-github.com-Parasjain1234-Leetcode_Problems/tree/master/0881-boats-to-save-people) |
